@@ -64,7 +64,7 @@ import sys.FileSystem;
 #end
 
 using StringTools;
-
+//instance
 class PlayState extends MusicBeatState
 {
 	public static var STRUM_X = 42;
